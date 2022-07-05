@@ -1,0 +1,18 @@
+{
+"companyName": "Nicso Games",
+"productName": "Mini Subway",
+"productVersion": "0.1",
+"dataUrl": "Build13.data.unityweb",
+"asmCodeUrl": "Build13.asm.code.unityweb",
+"asmMemoryUrl": "Build13.asm.memory.unityweb",
+"asmFrameworkUrl": "Build13.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FCFFEF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.20f1"
+}
